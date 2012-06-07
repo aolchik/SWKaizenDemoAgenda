@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestLists xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestList name="Lists of Tests" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <RunConfiguration id="9f0cea3b-b28f-4584-a916-e56e0f15864b" name="Local" storage="local.testsettings" type="Microsoft.VisualStudio.TestTools.Common.TestRunConfiguration, Microsoft.VisualStudio.QualityTools.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestList>
+  <TestList name="wip" id="a8176ffe-5401-4ac0-bb0f-e12f624f6e4e" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <Description>Work In Progress</Description>
+  </TestList>
+</TestLists>
